@@ -155,7 +155,7 @@ settings and will be for very specific cases."
 ;;; Built-in
 ;;;; basic colors
      (border                                       :background base03)
-     (cursor                                       :background base08)
+     (cursor                                       :background base05)
      (default                                      :foreground base05 :background base00)
      (fringe                                       :background fringe-bg)
      (gui-element                                  :background base01)
