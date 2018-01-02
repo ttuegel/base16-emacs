@@ -232,6 +232,7 @@ settings and will be for very specific cases."
      (font-latex-doctex-documentation-face         :background base03)
      (font-latex-italic-face                       :foreground base0B)
      (font-latex-math-face                         :foreground base09)
+     (font-latex-script-char-face                  :foreground base09)
      (font-latex-sectioning-0-face                 :foreground base0A)
      (font-latex-sectioning-1-face                 :foreground base0A)
      (font-latex-sectioning-2-face                 :foreground base0A)
